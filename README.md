@@ -1,5 +1,7 @@
 # excel-sales-analytics
 
+![myimage-alt-tag](https://ibb.co/h1TXXd)
+
 ## Installation
 Download all pay statements from Udemy into a single folder. 
 Download the Excel analyzer from this repo into the same folder.
