@@ -1,6 +1,6 @@
 # excel-sales-analytics
 
-![myimage-alt-tag](https://ibb.co/h1TXXd)
+[url=https://ibb.co/h1TXXd][img]https://preview.ibb.co/iBvCXd/Capture.png[/img][/url]
 
 ## Installation
 Download all pay statements from Udemy into a single folder. 
